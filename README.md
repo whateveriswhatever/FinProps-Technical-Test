@@ -1,0 +1,2 @@
+# FinProps-Technical-Test
+CNNs
